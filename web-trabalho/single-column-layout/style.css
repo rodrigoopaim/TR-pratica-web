@@ -1,0 +1,33 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+hr {
+  all: unset;
+  display: block;
+  height: 1px;
+  background-color: black;
+}
+
+body {
+    background-color: #F7F4ED;
+    font-family: 'Times New Roman';
+}
+.textoMeio {
+    padding: 100px 0;
+    text-align: left;
+}
+.textoMeio h1 {
+    font-size: 6rem;
+    line-height: 80px;
+}
+.textoMeio p {
+    font-size: 1.25rem;
+    color: #555;
+}
+.footer-links a {
+    margin: 0 10px;
+    color: #555;
+    text-decoration: none;
+}
+li, #arial{
+    font-family: arial;
+}

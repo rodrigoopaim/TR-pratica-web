@@ -1,0 +1,10 @@
+#botao{
+    background-color: rgb(255, 123, 0);
+}
+#div-titulo img{
+    width: 40px;
+}
+#div-titulo{
+    display: flex;
+    align-items: center;
+}

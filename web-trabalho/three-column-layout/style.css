@@ -1,0 +1,61 @@
+
+body{
+    background-color: rgb(9, 137, 52);
+}
+header{
+    background-color: rgb(25, 25, 25);
+}
+#logo-TC{
+    width: 502px;
+}
+#tor-img{
+    background-image: 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%),
+        url('https://tse1.explicit.bing.net/th/id/OIP.gXEBPh4QV8QMnaukRsMd0QHaGL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-size: cover;
+    background-position: center;
+    height: 92.5vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#trump-img{
+    background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%),
+        url('https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/1200/675/trump-685.jpg?ve=1&tl=1');
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#fel-img{
+    background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%),
+        url('https://tse4.mm.bing.net/th/id/OIP.Agbe0YFIbpTQ9RWP7tnkXQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#trump-img h1{
+    font-size: 20px;
+}
+#fel-img h1{
+    font-size: 20px;
+}
+#tor-img h1{
+    font-size: 55px;
+}
+#logozinha{
+    width: 18%;
+}
+footer img{
+    width: 25px;
+}
